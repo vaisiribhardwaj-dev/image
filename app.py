@@ -44,4 +44,4 @@ def main():
                 st.error(f"Error: {e}")
 
 if _name_ == "_main_":
-    main()
+   main()
